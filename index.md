@@ -1,46 +1,17 @@
 ---
-layout: page
-title: Hello World!
-tagline: Supporting tagline
+layout: default
+title: "Home"
+tagline: homepage
+group: navBar
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+<div id="frontpage-content">
+    <div id="frontpage-intro">
+      <p>Hi, I am <span>Bianca Pereira</span>. In my life I have many roles. I am a researcher in Computer Science, a feminist by ideal and a dancer by passion. Between other things =) This website was created to present a little bit about my production in some areas of my life. If you are interested in my carreer in Computer Science check my <a href="/curriculum/index.html">Curriculum</a>. If you would like to read some discussions and experiments in diverse categories, check my <a href="/blog/index.html"> Blog</a>. And if you are interested in contact me directly, see my <a href="/contact.html">contact</a> details. </p>
+    </div>
+    <!--<div id="featured-projects">
+      <h3>Featured Projects</h3>
+      <div id="featured-projects-bg"> <a href="#"><img class="featured-project-image first" src="{{ ASSET_PATH }}/images/zanka390x190.jpg" alt=""></a> <a href="#"><img class="featured-project-image first" src="{{ ASSET_PATH }}/images/jengo390x190.jpg" alt=""></a> <a href="#"><img class="featured-project-image" src="{{ ASSET_PATH }}/images/soko390x190.jpg" alt=""></a> <a href="#"><img class="featured-project-image" src="{{ ASSET_PATH }}/images/kondo390x190.jpg" alt=""></a> <a href="#"><img class="featured-project-image" src="{{ ASSET_PATH }}/images/azuka390x190.jpg" alt=""></a> <a href="#"><img class="featured-project-image" src="{{ ASSET_PATH }}/images/sanda390x190.jpg" alt=""></a> </div>
+    </div>-->
+  </div>

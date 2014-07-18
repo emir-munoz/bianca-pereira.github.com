@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <meta name="author" content="{{ site.author.name }}">
+  
+  <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le styles -->
+    <link href="{{ ASSET_PATH }}/styles/style.css" rel="stylesheet" type="text/css" media="all">
+  <!--[if IE 6]><link type="text/css" rel="stylesheet" href="{{ ASSET_PATH }}/styles/ie6.css"><![endif]-->
+  <!--[if IE 7]><link type="text/css" rel="stylesheet" href="{{ ASET_PATH }}/styles/ie7.css"><![endif]-->
+  
+    <!-- atom & rss feed -->
+    <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+
+    
+</head>
+<body>
+<div id="wrap">
+  <div id="header">
+    <h1><a href="index.html">Bianca Pereira</a></h1>
+    <h2></h2>
+    <div id="nav">
+      {% include themes/bobo/nav.html %}
+    </div>
+  </div>
+  {{ content }}
+  
+  <div id="footer">
+    {% include themes/bobo/footer.html %}
+  </div>
+</div>
+</body>
+</html>
