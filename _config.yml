@@ -29,15 +29,15 @@ social:
 #google_analytics: "UA-111111"
 
 scholar:
-  style: apa-no-doi-no-issue
+  style: assets/bibliography/apa-no-doi-no-issue.csl
   locale: en
 
   sort_by: year
   order: descending
 
-  source: ./_bibliography
+  source: assets/bibliography
   bibliography: references.bib
-  bibliography_template: bibliography
+  bibliography_template: bibtemplate
 #  bibliography_template: "{{ reference | replace_first: 'Pereira, B.', '<b>Pereira, B.</b>' }} {% if entry.pdf-file %}[<a href='{{entry.pdf-file}}'>pdf-file</a>]{% endif %} [<a data-toggle='collapse' href='#{{key}}-bibtex'>BibTeX</a>] <pre id='{{key}}-bibtex' class='pre pre-scrollable collapse'>{{entry.bibtex}}</pre>"
 
   replace_strings: true
