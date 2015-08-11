@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A short introduction"
+comments: true
 category: [Me]
 date:   2015-08-06
 ---
