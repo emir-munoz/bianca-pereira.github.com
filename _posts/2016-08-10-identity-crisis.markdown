@@ -3,7 +3,7 @@ layout: post
 title:  "Identity Crisis"
 comments: true
 category: [Identity Resolution, Identity Uncertainty]
-date:   2015-08-06
+date:   2015-08-10
 ---
 
 <p class="intro"><span class="dropcap">I</span> am who I am, but can I prove it?</p>
