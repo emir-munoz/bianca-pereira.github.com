@@ -19,7 +19,9 @@ For instance, the iPhone did not appear from nowhere, the palm top already had t
 
 For the challenge I thought on where the basketball hoop comes from. The solution that, of course, came from my mind and there is no compromise with the reality, is the following.
 
-<img src="{{ '/assets/img/basketball-hoop.jpg' | prepend: site.baseurl }}" alt="Basketball Hoop"> 
+<figure>
+  <img src="{{ '/assets/img/basketball-hoop.jpg' | prepend: site.baseurl }}" alt="Basketball Hoop"> 
+</figure>
 
 The intuition is simple: **rubish bin + ball = basketball hoop**. It sounds pretty obvious when you try to throw that ball paper in the bin, but stop and think: is it true? Imagine a big basketballl court and one small bin at each side. How is someone supposed to see the bin in order to throw a ball inside? 
 
