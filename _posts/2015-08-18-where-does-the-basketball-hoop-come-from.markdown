@@ -20,6 +20,7 @@ For instance, the iPhone did not appear from nowhere, the palm top already had t
 For the challenge I thought on where the basketball hoop comes from. The solution that, of course, came from my mind and there is no compromise with the reality, is the following.
 
 <figure>
+  <link rel="img_src" href="http://biancapereira.me/assets/img/basketball-hoop.jpg" />
   <img src="{{ '/assets/img/basketball-hoop.jpg' | prepend: site.baseurl }}" alt="Basketball Hoop"> 
 </figure>
 
