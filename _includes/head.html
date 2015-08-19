@@ -2,8 +2,16 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <title>{{ page.title }}</title>
+    <meta name="description" content="Bianca Pereira's website">
+
+    <!-- Facebook Info -->
+    <meta property="og:title" content={{site.title}} - {{ page.title }} />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="http://biancapereira.me/assets/img/touring.jpg" />
+    <meta property="og:site_name" content="Bianca Pereira's website" />
+    <link rel="img_src" href="http://biancapereira.me/assets/img/touring.jpg" />
+
+    <title>{{site.title}} - {{ page.title }}</title>
 
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="{{ "/assets/img/favicon.ico" | prepend: site.baseurl }}" />
