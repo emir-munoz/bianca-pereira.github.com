@@ -26,7 +26,7 @@ social:
    facebook: bianca.oli.pereira
    email: bianca@biancapereira.me
 
-#google_analytics: "UA-111111"
+google_analytics: "UA-66654253-1"
 
 scholar:
   style: assets/bibliography/apa-no-doi-no-issue.csl
