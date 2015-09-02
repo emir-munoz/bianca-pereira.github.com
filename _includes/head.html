@@ -10,7 +10,7 @@
     <meta property="og:image" content="http://biancapereira.me/assets/img/topimage.jpg" />
     <meta property="og:site_name" content="Bianca Pereira's website" />
     <meta property="og:image:type" content="image/jpeg" />
-    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}/" />
     <link rel="img_src" href="http://biancapereira.me/assets/img/topimage.jpg" />
 
     <title>{{site.title}} - {{ page.title }}</title>
@@ -24,7 +24,7 @@
     <!-- Stylesheet -->
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}">
     <!--[if IE 8]><link rel="stylesheet" href="{{ "/assets/css/ie.css" | prepend: site.baseurl }}"><![endif]-->
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}/">
 
     <!-- Modernizr -->
     <script src="{{ "/assets/js/modernizr.custom.15390.js" | prepend: site.baseurl }}" type="text/javascript"></script>
