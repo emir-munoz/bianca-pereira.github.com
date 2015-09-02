@@ -7,7 +7,7 @@
     <!-- Facebook Info -->
     <meta property="og:title" content={{site.title}} - {{ page.title }} />
     <meta property="og:type" content="article" />
-    <meta property="og:image" content="http://biancapereira.me/assets/img/topimage.jpg" />
+    <meta property="og:image" content="{{ '/assets/img/topimage.jpg' | prepend: site.baseurl }}" />
     <meta property="og:site_name" content="Bianca Pereira's website" />
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}/" />
