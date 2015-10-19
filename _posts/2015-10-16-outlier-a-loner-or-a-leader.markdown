@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Outlier, a solitary or a leader?"
+title:  "Outlier, a loner or a leader?"
 comments: true
 category: [Life]
 tags: [herd, complexity, outlier]
