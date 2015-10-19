@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Outlier, a hero or a loser?"
+title:  "Outlier, a solitary or a leader?"
 comments: true
 category: [Life]
 tags: [herd, complexity, outlier]
