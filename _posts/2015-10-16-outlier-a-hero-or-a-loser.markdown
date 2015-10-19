@@ -19,11 +19,13 @@ First, the name outlier comes from a point out of a distribution. It is somethin
 
 In the last post we explained that an individual can have two positions in a herd: the center, or the border. The main difference of those is that the individuals in the center are safer but do not have room to move; they just follow wherever the herd goes. In opposition, those individuals at the border are more suscetible to the danger from the environment, but have almost complete freedom of movement.
 
-The individuals in the center are the majority; they are *the average*. Those individuals in the border are minority; let's call them *the frontier*. An outlier is one of the individuals in the frontier that goes out of the limit of the heard, and farther from the average. In other words, it is the one who leaves the herd.
+The individuals in the center are the majority; they are *the average*. Those individuals in the border are minority; let's call them *the frontier*. An outlier is one of the individuals in the frontier that goes out of the limit of the heard, and farther from the average. In other words, it is the one who wants to stop following the herd.
 
 When an individual starts becoming an outlier, it can become one of two types: a solitary, or a leader.
 
 ###The Solitary Outlier
+
+The solitary outlier is the one who leaves alone. It leaves without anyone and walk alone his own path.
 
 A herd exists for protection of its members. Alone, individuals are more likely to face a danger and perish. When an outlier goes out of the herd and decides to stay alone, it is likely it will die or be forced to go back to the safety of the herd. As social animals, humans are very likely to perish if completely alone.
 
@@ -37,9 +39,11 @@ One interesting (real) story of a solitary outlier is represented in the movie [
 
 ###The Leader Outlier
 
+The leader outlier is the one capable to go out but without being alone. It leads part (or maybe the whole) heard with him.
+
 Another type of outlier takes advantage of one of the simple rules from the herd: the alignment (for all rules check my [previous post](http://biancapereira.me/blog/the-herd-behaviour-and-the-comfort-zone/)). This rule says that one should move in alignment with those in its field of vision. As soon as the outlier starts to go out of the border and farther from the average, those near it start to follow and go out of the herd.
 
-The leader outlier is the one capable to go out but without being alone. It leads part (or maybe the whole) heard with him. But without the first followers, other outliers, and without the efficiency of the alignment rule, it would not be succesful and would become a solitary outlier. The following video demonstrates my point.
+But it is important to notice that without the first followers, the leader would not be succesful and would become a solitary outlier. The following video demonstrates my point.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/fW8amMCVAJQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></center>
 
