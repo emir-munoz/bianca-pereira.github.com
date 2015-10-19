@@ -7,7 +7,7 @@ tags: [herd, complexity, outlier]
 date:   2015-10-18
 ---
 
-<p class="intro"><span class="dropcap">I</span>n the <a href="">previous post</a> I talked about the herd behaviour and how humans tend to follow the crowd. But, from time to time we see people coming from "nowhere" and becoming well succeeded on something. Those are <i>the outliers</i>, but how do they arrive there?</p>
+<p class="intro"><span class="dropcap">I</span>n the <a href="http://biancapereira.me/blog/the-herd-behaviour-and-the-comfort-zone/">previous post</a> I talked about the herd behaviour and how humans tend to follow the crowd. But, from time to time we see people coming from "nowhere" and becoming well succeeded on something. Those are <i>the outliers</i>, but how do they arrive there?</p>
 
 First, the name outlier comes from a point out of a distribution. It is something or someone different from the average.
 
@@ -37,7 +37,7 @@ One interesting (real) story of a solitary outlier is represented in the movie [
 
 ###The Leader Outlier
 
-Another type of outlier takes advantage of one of the simple rules from the herd: the alignment (for all rules check my [previous post]()). This rule says that one should move in alignment with those in its field of vision. As soon as the outlier starts to go out of the border and farther from the average, those near it start to follow and go out of the herd.
+Another type of outlier takes advantage of one of the simple rules from the herd: the alignment (for all rules check my [previous post](http://biancapereira.me/blog/the-herd-behaviour-and-the-comfort-zone/)). This rule says that one should move in alignment with those in its field of vision. As soon as the outlier starts to go out of the border and farther from the average, those near it start to follow and go out of the herd.
 
 The leader outlier is the one capable to go out but without being alone. It leads part (or maybe the whole) heard with him. But without the first followers, other outliers, and without the efficiency of the alignment rule, it would not be succesful and would become a solitary outlier. The following video demonstrates my point.
 
