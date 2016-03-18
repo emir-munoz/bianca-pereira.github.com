@@ -6,8 +6,7 @@ baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-markdown: kramdown
-highlighter: pygments 
+markdown: redcarpet
 paginate: 5
 
 navigation:
@@ -23,8 +22,9 @@ navigation:
 social:
    github: bianca-pereira
    twitter: bianca_oli_per
-   facebook: bianca.oli.pereira
+   facebook: Bianca-Pereira-978301655573527
    email: bianca@biancapereira.me
+   linkedin: biancaolipereira
 
 google_analytics: "UA-66654253-1"
 
