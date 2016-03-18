@@ -15,9 +15,9 @@ navigation:
  - title: Blog
    url: /blog
  - title: Publications
-   url: /publications.html
+   url: /publications/index.html
  - title: Contact
-   url: /contact.html
+   url: /contact/index.html
 
 social:
    github: bianca-pereira
