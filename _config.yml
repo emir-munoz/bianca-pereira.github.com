@@ -6,15 +6,14 @@ baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
 paginate: 5
 
 navigation:
  - title: Home
    url: /index.html
- - title: About
-   url: /about.html
+ - title: Blog
+   url: /blog
  - title: Publications
    url: /publications.html
  - title: Contact
