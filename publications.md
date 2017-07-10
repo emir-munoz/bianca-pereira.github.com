@@ -11,15 +11,15 @@ title: Bianca's Publications
 
 {% bibliography --file conferences %}
 
+### Workshop Papers
+
+{% bibliography --file workshops %}
+
 ### Poster & Demo Papers
 
 {% bibliography --file posters_demos %}
 
 {% comment %}
-
-### Workshop Papers
-
-{% bibliography --file workshops %}
 
 ### Journal Articles
 

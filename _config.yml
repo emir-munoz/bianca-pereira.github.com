@@ -6,27 +6,29 @@ baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
 paginate: 5
 
 navigation:
  - title: Home
    url: /index.html
- - title: About
-   url: /about.html
+ - title: Blog
+   url: /blog
  - title: Publications
-   url: /publications.html
+   url: /publications/index.html
  - title: Contact
-   url: /contact.html
+   url: /contact/index.html
 
 social:
    github: bianca-pereira
    twitter: bianca_oli_per
-   facebook: bianca.oli.pereira
+   facebook: Bianca-Pereira-978301655573527
    email: bianca@biancapereira.me
+   linkedin: biancaolipereira
+   soundcloud: user-671615919
+   quora: Bianca-Pereira-7
 
-#google_analytics: "UA-111111"
+google_analytics: "UA-66654253-1"
 
 scholar:
   style: assets/bibliography/apa-no-doi-no-issue.csl

@@ -5,13 +5,12 @@ title: About Bianca
 
 <div class="post">
 	<h1 class="pageTitle">About me</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="Me" style="width:80%"> 
-	<p class="intro">Hi, I am Bianca Pereira. In my life I have many roles. I am a researcher in Computer Science, a feminist by ideal and a dancer by passion. 
-		Between other things =)</p>
-	<p class="intro">This website was created to present a little bit about my production in some areas of my life. If you are interested in my 
-		carreer in Computer Science check my Curriculum. If you would like to read some discussions and experiments in diverse categories, check my Blog. 
-		And if you are interested in contact me directly, see my contact details.</p>
-	<h3>Research Interest</h3>
+	<img src="{{ '/assets/img/topimage.jpg' | prepend: site.baseurl }}" alt="Me" style="width:80%"> 
+    <p class="intro">I am Bianca Pereira, a researcher at work, a feminist by ideal and a dancer by passion. 
+        Among other things =)</p>
+    <p class="intro">This website was created to present an overview of my productions and my path in life. If you are interested in my 
+        career in Computer Science check my LinkedIn profile, if you would like to know some of my productions visit the Publications link, if you prefer discover what are my topics of interest visit my blog. But if you would like to discuss something directly with me, check my contact details.</p>
+	<!--<h3>Research Interest</h3>
 	<ul>
 		<li>Semantic Web, Information Retrieval, Natural Language Processing and Ontology Modularization</li>
 	</ul>
@@ -25,5 +24,5 @@ title: About Bianca
 	<h3>Participation in Research Projects</h3>
 	<h3>Service on Review Boards</h3>
 	<h3>Organization of Events</h3>
-	<h3>Scholarships and Awards</h3>
+	<h3>Scholarships and Awards</h3>-->
 </div>
